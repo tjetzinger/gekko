@@ -18,6 +18,7 @@ const Trader = function(next) {
   }
 
   this.propogatedTrades = 0;
+  this.propogatedTriggers = 0;
 
   try {
     this.broker = new Broker(this.brokerConfig);
@@ -178,6 +179,35 @@ Trader.prototype.processAdvice = function(advice) {
       });
     }
 
+    const trigger = advice.trigger;
+
+    if(trigger && trigger.type === 'trailingStop') {
+      const triggerId = 'trigger-' + (++this.propogatedTriggers);
+
+      this.deferredEmit('triggerCreated', {
+        id: triggerId,
+        at: advice.date,
+        initialPrice: this.price,
+        type: 'trialingStop',
+        proprties: {
+          trail: trigger.trailValue
+        }
+      });
+
+      this.activeStopTrigger = {
+        id: triggerId,
+        adviceId: advice.id,
+        instance: new Trigger({
+          type: trigger.type,
+          trail: trigger.trailValue,
+        })
+      }
+
+      this.activeStopTrigger.on(
+        'trigger', // todo
+      )
+    }
+
     amount = this.portfolio.currency / this.price * 0.95;
 
     log.info(
@@ -198,6 +228,16 @@ Trader.prototype.processAdvice = function(advice) {
         balance: this.balance,
         reason: "Portfolio already in position."
       });
+    }
+
+    // clean up potential old stop trigger
+    if(this.activeStopTrigger) {
+      this.deferredEmit('triggerAborted', {
+        id: this.activeStopTrigger.id,
+        date: advice.date
+      });
+
+      delete this.activeStopTrigger;
     }
 
     amount = this.portfolio.asset * 0.95;
