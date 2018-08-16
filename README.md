@@ -18,6 +18,26 @@ See [the documentation website](https://gekko.wizb.it/docs/introduction/about_ge
 
 See [the installing Gekko doc](https://gekko.wizb.it/docs/installation/installing_gekko.html).
 
+`git clone https://github.com/tjetzinger/gekko.git`
+
+`cd gekko`
+
+`node -v`
+=> v8.11.2
+
+`npm install`
+
+`npm install tulind`
+(optional)
+
+copy *.db files into history dir
+
+`node gekko.js --config config.js --ui`
+
+`node gekko.js --config config.js --backtest`
+
+`perl backtest.pl`
+
 ## Community & Support
 
 Gekko has [a forum](https://forum.gekko.wizb.it/) that is the place for discussions on using Gekko, automated trading and exchanges. In case you rather want to chat in realtime about Gekko feel free to join the [Gekko Support Discord](https://discord.gg/26wMygt).
