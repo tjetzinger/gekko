@@ -13,7 +13,6 @@
 # OS or Editor folders
 .DS_Store
 Thumbs.db
-config.js
 api-keys.js
 .cache
 .project
@@ -44,9 +43,9 @@ history
 TMP_*
 .idea
 volumes
-config.js
 config-*.js
 private-*.js
 private-*.toml
 SECRET-api-keys.json
 exchange/nusadua
+/database.csv
