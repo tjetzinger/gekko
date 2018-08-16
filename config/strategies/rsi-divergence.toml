@@ -1,0 +1,13 @@
+interval = 14
+
+[thresholds]
+low = 30
+high = 70
+persistence = 1
+
+[stoploss]
+stop = 2
+threshold = 2
+buy = 0
+buyValue = 0
+stopValue = 0

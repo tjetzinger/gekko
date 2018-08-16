@@ -1,0 +1,5 @@
+method = "sgd"
+learning_rate = 1.2
+momentum = 0.1
+batch_size = 15
+l2_decay = 0.6

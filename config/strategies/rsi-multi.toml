@@ -1,0 +1,9 @@
+interval = 14
+
+[thresholds]
+low = 30
+high = 70
+
+[exits]
+stopBuffer = 0.015
+profitRatio = 1.5
