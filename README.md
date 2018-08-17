@@ -18,7 +18,7 @@ See [the documentation website](https://gekko.wizb.it/docs/introduction/about_ge
 
 See [the installing Gekko doc](https://gekko.wizb.it/docs/installation/installing_gekko.html).
 
-`git clone https://github.com/tjetzinger/gekko.git`
+`git clone https://github.com/tjetzinger/gekko.git -b stable`
 
 `cd gekko`
 
@@ -30,9 +30,15 @@ See [the installing Gekko doc](https://gekko.wizb.it/docs/installation/installin
 `npm install tulind`
 (optional)
 
+`cd exchange`
+
+`npm install`
+
 copy *.db files into history dir
 
-`node gekko.js --config config.js --ui`
+`node gekko.js --config config.js`
+
+`node gekko.js --ui`
 
 `node gekko.js --config config.js --backtest`
 
