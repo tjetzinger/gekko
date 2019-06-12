@@ -135,7 +135,7 @@
         "ETH"
       ],
       "minimalOrder": {
-        "amount": "0.02",
+        "amount": "0.04",
         "unit": "asset"
       }
     },
@@ -145,7 +145,7 @@
         "ETH"
       ],
       "minimalOrder": {
-        "amount": "0.02",
+        "amount": "0.04",
         "unit": "asset"
       }
     },
@@ -275,7 +275,7 @@
         "XRP"
       ],
       "minimalOrder": {
-        "amount": "30.0",
+        "amount": "32.0",
         "unit": "asset"
       }
     },
@@ -285,7 +285,7 @@
         "XRP"
       ],
       "minimalOrder": {
-        "amount": "30.0",
+        "amount": "32.0",
         "unit": "asset"
       }
     },
@@ -295,7 +295,7 @@
         "IOT"
       ],
       "minimalOrder": {
-        "amount": "16.0",
+        "amount": "18.0",
         "unit": "asset"
       }
     },
@@ -305,7 +305,7 @@
         "IOT"
       ],
       "minimalOrder": {
-        "amount": "16.0",
+        "amount": "18.0",
         "unit": "asset"
       }
     },
@@ -315,7 +315,7 @@
         "IOT"
       ],
       "minimalOrder": {
-        "amount": "16.0",
+        "amount": "18.0",
         "unit": "asset"
       }
     },
@@ -445,7 +445,7 @@
         "NEO"
       ],
       "minimalOrder": {
-        "amount": "0.4",
+        "amount": "0.6",
         "unit": "asset"
       }
     },
@@ -455,7 +455,7 @@
         "NEO"
       ],
       "minimalOrder": {
-        "amount": "0.4",
+        "amount": "0.6",
         "unit": "asset"
       }
     },
@@ -465,7 +465,7 @@
         "NEO"
       ],
       "minimalOrder": {
-        "amount": "0.4",
+        "amount": "0.6",
         "unit": "asset"
       }
     },
@@ -535,7 +535,7 @@
         "AVT"
       ],
       "minimalOrder": {
-        "amount": "16.0",
+        "amount": "18.0",
         "unit": "asset"
       }
     },
@@ -545,7 +545,7 @@
         "AVT"
       ],
       "minimalOrder": {
-        "amount": "16.0",
+        "amount": "18.0",
         "unit": "asset"
       }
     },
@@ -555,7 +555,7 @@
         "AVT"
       ],
       "minimalOrder": {
-        "amount": "16.0",
+        "amount": "18.0",
         "unit": "asset"
       }
     },
@@ -615,7 +615,7 @@
         "DAT"
       ],
       "minimalOrder": {
-        "amount": "256.0",
+        "amount": "282.0",
         "unit": "asset"
       }
     },
@@ -625,7 +625,7 @@
         "DAT"
       ],
       "minimalOrder": {
-        "amount": "256.0",
+        "amount": "282.0",
         "unit": "asset"
       }
     },
@@ -635,7 +635,7 @@
         "DAT"
       ],
       "minimalOrder": {
-        "amount": "256.0",
+        "amount": "282.0",
         "unit": "asset"
       }
     },
@@ -705,7 +705,7 @@
         "GNT"
       ],
       "minimalOrder": {
-        "amount": "54.0",
+        "amount": "58.0",
         "unit": "asset"
       }
     },
@@ -715,7 +715,7 @@
         "GNT"
       ],
       "minimalOrder": {
-        "amount": "54.0",
+        "amount": "58.0",
         "unit": "asset"
       }
     },
@@ -725,7 +725,7 @@
         "GNT"
       ],
       "minimalOrder": {
-        "amount": "54.0",
+        "amount": "58.0",
         "unit": "asset"
       }
     },
@@ -735,7 +735,7 @@
         "SNT"
       ],
       "minimalOrder": {
-        "amount": "216.0",
+        "amount": "226.0",
         "unit": "asset"
       }
     },
@@ -745,7 +745,7 @@
         "SNT"
       ],
       "minimalOrder": {
-        "amount": "216.0",
+        "amount": "226.0",
         "unit": "asset"
       }
     },
@@ -755,7 +755,7 @@
         "SNT"
       ],
       "minimalOrder": {
-        "amount": "216.0",
+        "amount": "226.0",
         "unit": "asset"
       }
     },
@@ -765,7 +765,7 @@
         "IOT"
       ],
       "minimalOrder": {
-        "amount": "16.0",
+        "amount": "18.0",
         "unit": "asset"
       }
     },
@@ -835,7 +835,7 @@
         "FUN"
       ],
       "minimalOrder": {
-        "amount": "554.0",
+        "amount": "556.0",
         "unit": "asset"
       }
     },
@@ -845,7 +845,7 @@
         "FUN"
       ],
       "minimalOrder": {
-        "amount": "554.0",
+        "amount": "556.0",
         "unit": "asset"
       }
     },
@@ -855,7 +855,7 @@
         "FUN"
       ],
       "minimalOrder": {
-        "amount": "554.0",
+        "amount": "556.0",
         "unit": "asset"
       }
     },
@@ -895,7 +895,7 @@
         "TNB"
       ],
       "minimalOrder": {
-        "amount": "652.0",
+        "amount": "670.0",
         "unit": "asset"
       }
     },
@@ -905,7 +905,7 @@
         "TNB"
       ],
       "minimalOrder": {
-        "amount": "652.0",
+        "amount": "670.0",
         "unit": "asset"
       }
     },
@@ -915,7 +915,7 @@
         "TNB"
       ],
       "minimalOrder": {
-        "amount": "652.0",
+        "amount": "670.0",
         "unit": "asset"
       }
     },
@@ -955,7 +955,7 @@
         "TRX"
       ],
       "minimalOrder": {
-        "amount": "410.0",
+        "amount": "424.0",
         "unit": "asset"
       }
     },
@@ -965,7 +965,7 @@
         "TRX"
       ],
       "minimalOrder": {
-        "amount": "410.0",
+        "amount": "424.0",
         "unit": "asset"
       }
     },
@@ -975,7 +975,7 @@
         "TRX"
       ],
       "minimalOrder": {
-        "amount": "410.0",
+        "amount": "424.0",
         "unit": "asset"
       }
     },
@@ -985,7 +985,7 @@
         "RCN"
       ],
       "minimalOrder": {
-        "amount": "322.0",
+        "amount": "332.0",
         "unit": "asset"
       }
     },
@@ -995,7 +995,7 @@
         "RCN"
       ],
       "minimalOrder": {
-        "amount": "322.0",
+        "amount": "332.0",
         "unit": "asset"
       }
     },
@@ -1005,7 +1005,7 @@
         "RCN"
       ],
       "minimalOrder": {
-        "amount": "322.0",
+        "amount": "332.0",
         "unit": "asset"
       }
     },
@@ -1015,7 +1015,7 @@
         "RLC"
       ],
       "minimalOrder": {
-        "amount": "28.0",
+        "amount": "30.0",
         "unit": "asset"
       }
     },
@@ -1025,7 +1025,7 @@
         "RLC"
       ],
       "minimalOrder": {
-        "amount": "28.0",
+        "amount": "30.0",
         "unit": "asset"
       }
     },
@@ -1035,7 +1035,7 @@
         "RLC"
       ],
       "minimalOrder": {
-        "amount": "28.0",
+        "amount": "30.0",
         "unit": "asset"
       }
     },
@@ -1045,7 +1045,7 @@
         "AID"
       ],
       "minimalOrder": {
-        "amount": "122.0",
+        "amount": "128.0",
         "unit": "asset"
       }
     },
@@ -1055,7 +1055,7 @@
         "AID"
       ],
       "minimalOrder": {
-        "amount": "122.0",
+        "amount": "128.0",
         "unit": "asset"
       }
     },
@@ -1065,7 +1065,7 @@
         "AID"
       ],
       "minimalOrder": {
-        "amount": "122.0",
+        "amount": "128.0",
         "unit": "asset"
       }
     },
@@ -1135,7 +1135,7 @@
         "ELF"
       ],
       "minimalOrder": {
-        "amount": "20.0",
+        "amount": "22.0",
         "unit": "asset"
       }
     },
@@ -1145,7 +1145,7 @@
         "ELF"
       ],
       "minimalOrder": {
-        "amount": "20.0",
+        "amount": "22.0",
         "unit": "asset"
       }
     },
@@ -1155,7 +1155,7 @@
         "ELF"
       ],
       "minimalOrder": {
-        "amount": "20.0",
+        "amount": "22.0",
         "unit": "asset"
       }
     },
@@ -1175,7 +1175,7 @@
         "ETH"
       ],
       "minimalOrder": {
-        "amount": "0.02",
+        "amount": "0.04",
         "unit": "asset"
       }
     },
@@ -1185,7 +1185,7 @@
         "ETH"
       ],
       "minimalOrder": {
-        "amount": "0.02",
+        "amount": "0.04",
         "unit": "asset"
       }
     },
@@ -1195,7 +1195,7 @@
         "ETH"
       ],
       "minimalOrder": {
-        "amount": "0.02",
+        "amount": "0.04",
         "unit": "asset"
       }
     },
@@ -1205,7 +1205,7 @@
         "NEO"
       ],
       "minimalOrder": {
-        "amount": "0.4",
+        "amount": "0.6",
         "unit": "asset"
       }
     },
@@ -1215,7 +1215,7 @@
         "NEO"
       ],
       "minimalOrder": {
-        "amount": "0.4",
+        "amount": "0.6",
         "unit": "asset"
       }
     },
@@ -1225,7 +1225,7 @@
         "NEO"
       ],
       "minimalOrder": {
-        "amount": "0.4",
+        "amount": "0.6",
         "unit": "asset"
       }
     },
@@ -1265,7 +1265,7 @@
         "IOT"
       ],
       "minimalOrder": {
-        "amount": "16.0",
+        "amount": "18.0",
         "unit": "asset"
       }
     },
@@ -1275,7 +1275,7 @@
         "IOT"
       ],
       "minimalOrder": {
-        "amount": "16.0",
+        "amount": "18.0",
         "unit": "asset"
       }
     },
@@ -1285,7 +1285,7 @@
         "IOS"
       ],
       "minimalOrder": {
-        "amount": "596.0",
+        "amount": "614.0",
         "unit": "asset"
       }
     },
@@ -1295,7 +1295,7 @@
         "IOS"
       ],
       "minimalOrder": {
-        "amount": "596.0",
+        "amount": "614.0",
         "unit": "asset"
       }
     },
@@ -1305,7 +1305,7 @@
         "IOS"
       ],
       "minimalOrder": {
-        "amount": "596.0",
+        "amount": "614.0",
         "unit": "asset"
       }
     },
@@ -1315,7 +1315,7 @@
         "AIO"
       ],
       "minimalOrder": {
-        "amount": "20.0",
+        "amount": "22.0",
         "unit": "asset"
       }
     },
@@ -1325,7 +1325,7 @@
         "AIO"
       ],
       "minimalOrder": {
-        "amount": "20.0",
+        "amount": "22.0",
         "unit": "asset"
       }
     },
@@ -1335,7 +1335,7 @@
         "AIO"
       ],
       "minimalOrder": {
-        "amount": "20.0",
+        "amount": "22.0",
         "unit": "asset"
       }
     },
@@ -1345,7 +1345,7 @@
         "REQ"
       ],
       "minimalOrder": {
-        "amount": "206.0",
+        "amount": "220.0",
         "unit": "asset"
       }
     },
@@ -1355,7 +1355,7 @@
         "REQ"
       ],
       "minimalOrder": {
-        "amount": "206.0",
+        "amount": "220.0",
         "unit": "asset"
       }
     },
@@ -1365,7 +1365,7 @@
         "REQ"
       ],
       "minimalOrder": {
-        "amount": "206.0",
+        "amount": "220.0",
         "unit": "asset"
       }
     },
@@ -1375,7 +1375,7 @@
         "RDN"
       ],
       "minimalOrder": {
-        "amount": "18.0",
+        "amount": "24.0",
         "unit": "asset"
       }
     },
@@ -1385,7 +1385,7 @@
         "RDN"
       ],
       "minimalOrder": {
-        "amount": "18.0",
+        "amount": "24.0",
         "unit": "asset"
       }
     },
@@ -1395,7 +1395,7 @@
         "RDN"
       ],
       "minimalOrder": {
-        "amount": "18.0",
+        "amount": "22.0",
         "unit": "asset"
       }
     },
@@ -1435,7 +1435,7 @@
         "WAX"
       ],
       "minimalOrder": {
-        "amount": "112.0",
+        "amount": "114.0",
         "unit": "asset"
       }
     },
@@ -1445,7 +1445,7 @@
         "WAX"
       ],
       "minimalOrder": {
-        "amount": "112.0",
+        "amount": "114.0",
         "unit": "asset"
       }
     },
@@ -1455,7 +1455,7 @@
         "WAX"
       ],
       "minimalOrder": {
-        "amount": "112.0",
+        "amount": "114.0",
         "unit": "asset"
       }
     },
@@ -1495,7 +1495,7 @@
         "CFI"
       ],
       "minimalOrder": {
-        "amount": "368.0",
+        "amount": "372.0",
         "unit": "asset"
       }
     },
@@ -1505,7 +1505,7 @@
         "CFI"
       ],
       "minimalOrder": {
-        "amount": "368.0",
+        "amount": "372.0",
         "unit": "asset"
       }
     },
@@ -1515,7 +1515,7 @@
         "CFI"
       ],
       "minimalOrder": {
-        "amount": "368.0",
+        "amount": "372.0",
         "unit": "asset"
       }
     },
@@ -1525,7 +1525,7 @@
         "AGI"
       ],
       "minimalOrder": {
-        "amount": "158.0",
+        "amount": "168.0",
         "unit": "asset"
       }
     },
@@ -1535,7 +1535,7 @@
         "AGI"
       ],
       "minimalOrder": {
-        "amount": "158.0",
+        "amount": "168.0",
         "unit": "asset"
       }
     },
@@ -1545,7 +1545,7 @@
         "AGI"
       ],
       "minimalOrder": {
-        "amount": "158.0",
+        "amount": "168.0",
         "unit": "asset"
       }
     },
@@ -1555,7 +1555,7 @@
         "BFT"
       ],
       "minimalOrder": {
-        "amount": "180.0",
+        "amount": "194.0",
         "unit": "asset"
       }
     },
@@ -1565,7 +1565,7 @@
         "BFT"
       ],
       "minimalOrder": {
-        "amount": "180.0",
+        "amount": "194.0",
         "unit": "asset"
       }
     },
@@ -1575,7 +1575,7 @@
         "BFT"
       ],
       "minimalOrder": {
-        "amount": "180.0",
+        "amount": "194.0",
         "unit": "asset"
       }
     },
@@ -1585,7 +1585,7 @@
         "MTN"
       ],
       "minimalOrder": {
-        "amount": "334.0",
+        "amount": "352.0",
         "unit": "asset"
       }
     },
@@ -1595,7 +1595,7 @@
         "MTN"
       ],
       "minimalOrder": {
-        "amount": "334.0",
+        "amount": "352.0",
         "unit": "asset"
       }
     },
@@ -1605,7 +1605,7 @@
         "MTN"
       ],
       "minimalOrder": {
-        "amount": "334.0",
+        "amount": "352.0",
         "unit": "asset"
       }
     },
@@ -1675,7 +1675,7 @@
         "DTH"
       ],
       "minimalOrder": {
-        "amount": "304.0",
+        "amount": "322.0",
         "unit": "asset"
       }
     },
@@ -1685,7 +1685,7 @@
         "DTH"
       ],
       "minimalOrder": {
-        "amount": "304.0",
+        "amount": "322.0",
         "unit": "asset"
       }
     },
@@ -1695,7 +1695,7 @@
         "DTH"
       ],
       "minimalOrder": {
-        "amount": "304.0",
+        "amount": "322.0",
         "unit": "asset"
       }
     },
@@ -1825,7 +1825,7 @@
         "XVG"
       ],
       "minimalOrder": {
-        "amount": "664.0",
+        "amount": "706.0",
         "unit": "asset"
       }
     },
@@ -1835,7 +1835,7 @@
         "XVG"
       ],
       "minimalOrder": {
-        "amount": "664.0",
+        "amount": "706.0",
         "unit": "asset"
       }
     },
@@ -1845,7 +1845,7 @@
         "XVG"
       ],
       "minimalOrder": {
-        "amount": "664.0",
+        "amount": "706.0",
         "unit": "asset"
       }
     },
@@ -1855,7 +1855,7 @@
         "XVG"
       ],
       "minimalOrder": {
-        "amount": "664.0",
+        "amount": "706.0",
         "unit": "asset"
       }
     },
@@ -1865,7 +1865,7 @@
         "XVG"
       ],
       "minimalOrder": {
-        "amount": "664.0",
+        "amount": "706.0",
         "unit": "asset"
       }
     },
@@ -1875,7 +1875,7 @@
         "XVG"
       ],
       "minimalOrder": {
-        "amount": "664.0",
+        "amount": "706.0",
         "unit": "asset"
       }
     },
@@ -2025,7 +2025,7 @@
         "LYM"
       ],
       "minimalOrder": {
-        "amount": "584.0",
+        "amount": "644.0",
         "unit": "asset"
       }
     },
@@ -2035,7 +2035,7 @@
         "LYM"
       ],
       "minimalOrder": {
-        "amount": "584.0",
+        "amount": "644.0",
         "unit": "asset"
       }
     },
@@ -2045,7 +2045,7 @@
         "LYM"
       ],
       "minimalOrder": {
-        "amount": "584.0",
+        "amount": "644.0",
         "unit": "asset"
       }
     },
@@ -2055,7 +2055,7 @@
         "UTK"
       ],
       "minimalOrder": {
-        "amount": "218.0",
+        "amount": "250.0",
         "unit": "asset"
       }
     },
@@ -2065,7 +2065,7 @@
         "UTK"
       ],
       "minimalOrder": {
-        "amount": "218.0",
+        "amount": "250.0",
         "unit": "asset"
       }
     },
@@ -2075,7 +2075,7 @@
         "UTK"
       ],
       "minimalOrder": {
-        "amount": "218.0",
+        "amount": "250.0",
         "unit": "asset"
       }
     },
@@ -2085,7 +2085,7 @@
         "VEE"
       ],
       "minimalOrder": {
-        "amount": "774.0",
+        "amount": "894.0",
         "unit": "asset"
       }
     },
@@ -2095,7 +2095,7 @@
         "VEE"
       ],
       "minimalOrder": {
-        "amount": "774.0",
+        "amount": "894.0",
         "unit": "asset"
       }
     },
@@ -2105,7 +2105,7 @@
         "VEE"
       ],
       "minimalOrder": {
-        "amount": "774.0",
+        "amount": "894.0",
         "unit": "asset"
       }
     },
@@ -2175,7 +2175,7 @@
         "AUC"
       ],
       "minimalOrder": {
-        "amount": "102.0",
+        "amount": "122.0",
         "unit": "asset"
       }
     },
@@ -2185,7 +2185,7 @@
         "AUC"
       ],
       "minimalOrder": {
-        "amount": "102.0",
+        "amount": "122.0",
         "unit": "asset"
       }
     },
@@ -2195,7 +2195,7 @@
         "AUC"
       ],
       "minimalOrder": {
-        "amount": "102.0",
+        "amount": "122.0",
         "unit": "asset"
       }
     },
@@ -2295,7 +2295,7 @@
         "ZCN"
       ],
       "minimalOrder": {
-        "amount": "52.0",
+        "amount": "58.0",
         "unit": "asset"
       }
     },
@@ -2305,7 +2305,7 @@
         "ZCN"
       ],
       "minimalOrder": {
-        "amount": "52.0",
+        "amount": "58.0",
         "unit": "asset"
       }
     },
@@ -2315,7 +2315,7 @@
         "ZCN"
       ],
       "minimalOrder": {
-        "amount": "52.0",
+        "amount": "58.0",
         "unit": "asset"
       }
     },
@@ -2325,7 +2325,7 @@
         "SEN"
       ],
       "minimalOrder": {
-        "amount": "906.0",
+        "amount": "978.0",
         "unit": "asset"
       }
     },
@@ -2335,7 +2335,7 @@
         "SEN"
       ],
       "minimalOrder": {
-        "amount": "906.0",
+        "amount": "978.0",
         "unit": "asset"
       }
     },
@@ -2345,7 +2345,7 @@
         "SEN"
       ],
       "minimalOrder": {
-        "amount": "906.0",
+        "amount": "978.0",
         "unit": "asset"
       }
     },
@@ -2355,7 +2355,7 @@
         "NCA"
       ],
       "minimalOrder": {
-        "amount": "1352.0",
+        "amount": "1562.0",
         "unit": "asset"
       }
     },
@@ -2365,7 +2365,7 @@
         "NCA"
       ],
       "minimalOrder": {
-        "amount": "1352.0",
+        "amount": "1562.0",
         "unit": "asset"
       }
     },
@@ -2375,7 +2375,7 @@
         "NCA"
       ],
       "minimalOrder": {
-        "amount": "1352.0",
+        "amount": "1562.0",
         "unit": "asset"
       }
     },
@@ -2385,7 +2385,7 @@
         "CND"
       ],
       "minimalOrder": {
-        "amount": "498.0",
+        "amount": "606.0",
         "unit": "asset"
       }
     },
@@ -2395,7 +2395,7 @@
         "CND"
       ],
       "minimalOrder": {
-        "amount": "498.0",
+        "amount": "606.0",
         "unit": "asset"
       }
     },
@@ -2405,7 +2405,7 @@
         "CND"
       ],
       "minimalOrder": {
-        "amount": "498.0",
+        "amount": "606.0",
         "unit": "asset"
       }
     },
@@ -2465,7 +2465,7 @@
         "SEE"
       ],
       "minimalOrder": {
-        "amount": "3262.0",
+        "amount": "3890.0",
         "unit": "asset"
       }
     },
@@ -2475,7 +2475,7 @@
         "SEE"
       ],
       "minimalOrder": {
-        "amount": "3262.0",
+        "amount": "3890.0",
         "unit": "asset"
       }
     },
@@ -2485,7 +2485,7 @@
         "SEE"
       ],
       "minimalOrder": {
-        "amount": "3262.0",
+        "amount": "3890.0",
         "unit": "asset"
       }
     },
@@ -2495,7 +2495,7 @@
         "ESS"
       ],
       "minimalOrder": {
-        "amount": "798.0",
+        "amount": "862.0",
         "unit": "asset"
       }
     },
@@ -2505,7 +2505,7 @@
         "ESS"
       ],
       "minimalOrder": {
-        "amount": "798.0",
+        "amount": "862.0",
         "unit": "asset"
       }
     },
@@ -2515,7 +2515,7 @@
         "ESS"
       ],
       "minimalOrder": {
-        "amount": "798.0",
+        "amount": "862.0",
         "unit": "asset"
       }
     },
@@ -2525,7 +2525,7 @@
         "ATM"
       ],
       "minimalOrder": {
-        "amount": "516.0",
+        "amount": "604.0",
         "unit": "asset"
       }
     },
@@ -2535,7 +2535,7 @@
         "ATM"
       ],
       "minimalOrder": {
-        "amount": "516.0",
+        "amount": "604.0",
         "unit": "asset"
       }
     },
@@ -2545,7 +2545,7 @@
         "ATM"
       ],
       "minimalOrder": {
-        "amount": "516.0",
+        "amount": "604.0",
         "unit": "asset"
       }
     },
@@ -2555,7 +2555,7 @@
         "HOT"
       ],
       "minimalOrder": {
-        "amount": "562.0",
+        "amount": "570.0",
         "unit": "asset"
       }
     },
@@ -2565,7 +2565,7 @@
         "HOT"
       ],
       "minimalOrder": {
-        "amount": "562.0",
+        "amount": "570.0",
         "unit": "asset"
       }
     },
@@ -2575,7 +2575,7 @@
         "HOT"
       ],
       "minimalOrder": {
-        "amount": "562.0",
+        "amount": "570.0",
         "unit": "asset"
       }
     },
@@ -2585,7 +2585,7 @@
         "DTA"
       ],
       "minimalOrder": {
-        "amount": "3480.0",
+        "amount": "3928.0",
         "unit": "asset"
       }
     },
@@ -2595,7 +2595,7 @@
         "DTA"
       ],
       "minimalOrder": {
-        "amount": "3480.0",
+        "amount": "3928.0",
         "unit": "asset"
       }
     },
@@ -2605,7 +2605,7 @@
         "DTA"
       ],
       "minimalOrder": {
-        "amount": "3480.0",
+        "amount": "3928.0",
         "unit": "asset"
       }
     },
@@ -2645,7 +2645,7 @@
         "WPR"
       ],
       "minimalOrder": {
-        "amount": "370.0",
+        "amount": "378.0",
         "unit": "asset"
       }
     },
@@ -2655,7 +2655,7 @@
         "WPR"
       ],
       "minimalOrder": {
-        "amount": "370.0",
+        "amount": "378.0",
         "unit": "asset"
       }
     },
@@ -2665,7 +2665,7 @@
         "WPR"
       ],
       "minimalOrder": {
-        "amount": "370.0",
+        "amount": "378.0",
         "unit": "asset"
       }
     },
@@ -2675,7 +2675,7 @@
         "ZIL"
       ],
       "minimalOrder": {
-        "amount": "248.0",
+        "amount": "256.0",
         "unit": "asset"
       }
     },
@@ -2685,7 +2685,7 @@
         "ZIL"
       ],
       "minimalOrder": {
-        "amount": "248.0",
+        "amount": "256.0",
         "unit": "asset"
       }
     },
@@ -2695,7 +2695,7 @@
         "ZIL"
       ],
       "minimalOrder": {
-        "amount": "248.0",
+        "amount": "256.0",
         "unit": "asset"
       }
     },
@@ -2735,7 +2735,7 @@
         "ABS"
       ],
       "minimalOrder": {
-        "amount": "278.0",
+        "amount": "392.0",
         "unit": "asset"
       }
     },
@@ -2745,7 +2745,7 @@
         "ABS"
       ],
       "minimalOrder": {
-        "amount": "278.0",
+        "amount": "392.0",
         "unit": "asset"
       }
     },
@@ -2755,7 +2755,7 @@
         "XRA"
       ],
       "minimalOrder": {
-        "amount": "62.0",
+        "amount": "138.0",
         "unit": "asset"
       }
     },
@@ -2765,7 +2765,7 @@
         "XRA"
       ],
       "minimalOrder": {
-        "amount": "62.0",
+        "amount": "138.0",
         "unit": "asset"
       }
     },

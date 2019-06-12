@@ -100,6 +100,7 @@
     "NXS",
     "ONT",
     "OST",
+    "PHX",
     "PIVX",
     "POA",
     "POE",
@@ -114,7 +115,6 @@
     "REP",
     "REQ",
     "RLC",
-    "RPX",
     "SC",
     "SKY",
     "STEEM",
@@ -2863,6 +2863,39 @@
     {
       "pair": [
         "BNB",
+        "PHX"
+      ],
+      "minimalOrder": {
+        "amount": 1,
+        "price": 0.000001,
+        "order": 1
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "PHX"
+      ],
+      "minimalOrder": {
+        "amount": 1,
+        "price": 1e-8,
+        "order": 0.001
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "PHX"
+      ],
+      "minimalOrder": {
+        "amount": 1,
+        "price": 1e-8,
+        "order": 0.01
+      }
+    },
+    {
+      "pair": [
+        "BNB",
         "PIVX"
       ],
       "minimalOrder": {
@@ -3286,39 +3319,6 @@
       "minimalOrder": {
         "amount": 0.01,
         "price": 0.000001,
-        "order": 0.01
-      }
-    },
-    {
-      "pair": [
-        "BNB",
-        "RPX"
-      ],
-      "minimalOrder": {
-        "amount": 1,
-        "price": 0.000001,
-        "order": 1
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "RPX"
-      ],
-      "minimalOrder": {
-        "amount": 1,
-        "price": 1e-8,
-        "order": 0.001
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "RPX"
-      ],
-      "minimalOrder": {
-        "amount": 1,
-        "price": 1e-8,
         "order": 0.01
       }
     },

@@ -6,18 +6,18 @@ RSI_BB_ADX_Peak
 );
 # Put your pairs between brackets in line below. Use exchange:currency:asset format. Seperate pair using space or newline. You can add all Your paris with ALL line or all pairs for exchange with binance:ALL line or binance:USDT:ALL line. Another option is adding dates for dataset for indivual pairs, ex: binance:BNB:NULS:2018-04-05:2018-05-01
 @pairs = qw(
-bitfinex:USD:BTC
+binance:ALL
 );
 
 # BUG - USE ONE CANDLE VALUE TEMPORARY! Put your candle values between brackets in line below. Use CandleSize:WarmupPeriod format. Seperate pair using space or newline.
 @warmup = qw(
-60:14
+120:14
 );
 
 ############################# OPTIONAL SETTINGS #############################
 # To specify time range for import or backtest uncomment lines below, but instead this you can use command line input ex.: backtest.pl --from "2018-01-01 00:00:00" --to "2018-01-05 00:00:00". If below lines are commented Gekko is using scan datasets feature in backtest mode.
-$from = '2015-08-27';
-$to = '2018-08-07';
+$from = '2017-11-21';
+$to = '2018-08-08';
 
 # If You are using only one exchange or one exchange and one currency You can put default values below, and adding only asset name to @pairs ex: NULS, ADA, TRX - without binance:BTC before asset ex: perl backtest.pl -p NULS,ADA,TRX.
 #$default_set = 'binance:BNB';

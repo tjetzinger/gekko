@@ -33,8 +33,17 @@ config.watch = {
 config.tradingAdvisor = {
   enabled: true,
   method: 'RSI_BB_ADX_Peak',
-  candleSize: 60,
-  historySize: 14,
+  candleSize: 120,
+  historySize: 10,
+};
+
+config['ema_scalp'] = {
+  ema51: 9,
+  ema52: 21,
+  ema53: 34,
+  ema601: 9,
+  ema602: 21,
+  persistence: 2,
 };
 
 config['rsi-multi'] = {
